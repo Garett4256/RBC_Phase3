@@ -29,9 +29,6 @@ Coding (ChatGPT)
 4) Displayed the path in grid form(Visual)
 5) Fix an error where it can start from an obstacle or end at an obstacle.
 
-Testing
-
-
 Fancy terms found along the way:
 1) Heuristic function
     - Estimate of the distance between a node and a goal node
@@ -42,4 +39,29 @@ Fancy terms found along the way:
 3) Manhattan Distance
     - Used in grids where only horizontal and vertical movements are allowed
   
+Testing
+1) Prioristise higher urgency
+
+![alt text](image-1.png)
+
+2) Prioritise heavier weight
+
+![alt text](image.png)
+
+3) Time taken to complete task
+
+![alt text](image-2.png)
+
+4) Multi goals will choose the closest ones
+
+![alt text](image-4.png)
+
+![alt text](image-3.png)
+
+5) For goals of same range will choose the path with the least steps taken
+![alt text](image-5.png)
+
+![alt text](image-7.png)
+
+![alt text](image-6.png)
 
