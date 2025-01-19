@@ -1,3 +1,5 @@
+# RBC_Phase3
+
 Documentation(What I assume I understand from the Internet and ChatGPT)
 
 ALgorithm
@@ -36,8 +38,7 @@ Fancy terms found along the way:
 
 2) Euclidean distance
     - Used in grids where diagonal movements are allowed
-
 3) Manhattan Distance
     - Used in grids where only horizontal and vertical movements are allowed
   
-# RBC_Phase3
+
